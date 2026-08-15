@@ -7,9 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-08-15
+
+### Added
+
+- Automatic update checks: the app checks for new releases on startup, downloads them in the background, and prompts to restart once ready.
+
 ## [1.0.0] - 2026-08-15
 
-First production release, replacing the studio's previous Excel-based bookkeeping.
+First production release.
 
 ### Added
 
