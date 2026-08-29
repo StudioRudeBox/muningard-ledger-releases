@@ -15,7 +15,3 @@ Run the installer and follow the prompts. The app installs per-user and creates 
 ## Data & privacy
 
 Muningard Ledger runs entirely on your machine — there is no cloud sync, no telemetry, and no external account. All bookkeeping data is stored locally in a SQLite database file.
-
-## Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) for release notes.
